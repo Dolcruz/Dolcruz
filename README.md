@@ -30,13 +30,6 @@ Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg Univers
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Dolcruz&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" height="170" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dolcruz&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" height="170" />
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Dolcruz&theme=github-dark-blue&hide_border=true&background=00000000" />
 
 </div>
