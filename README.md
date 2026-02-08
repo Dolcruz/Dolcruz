@@ -4,18 +4,17 @@
 
 </div>
 
-Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg University. Currently working on **AI-based defect detection** for cultural heritage preservation at [PreserviTec](https://preservitec.com).
+Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg University. Currently working on **AI-based defect detection** for bridges, silos, and industrial buildings at [PreserviTec](https://preservitec.com).
 
 ## Tech Stack
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=python,typescript,js,react,nextjs,vite,tailwind,leaflet,firebase,nodejs,flask,docker,linux,git,electron&perline=8)
+![Tech Stack](https://skillicons.dev/icons?i=python,typescript,js,react,vite,materialui,firebase,nodejs,electron,powershell,git,linux&perline=6)
 
 </div>
 
-**Data & GIS:** QGIS, PostGIS, GDAL, GeoPandas, Point Clouds, LiDAR
-**ML / CV:** Gemini VLM, Whisper, Scikit-learn, OpenCV
+**Also:** Leaflet, PySide6/Qt, Cheerio, Open3D, Matplotlib, Scikit-learn, Gemini VLM, Groq Whisper
 
 ## Featured Projects
 
@@ -39,7 +38,7 @@ Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg Univers
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-pfisterer--portfolio.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfisterer-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Falk_Pfisterer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/falk-pfisterer)
-[![Email](https://img.shields.io/badge/Email-falkpfisterer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:falkpfisterer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Falk_Pfisterer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falk-pfisterer-6a48a331b/)
+[![Email](https://img.shields.io/badge/Email-pfistererfalk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfistererfalk@gmail.com)
 
 </div>
