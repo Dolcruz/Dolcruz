@@ -4,7 +4,7 @@
 
 </div>
 
-Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg University. Currently working on **AI-based defect detection** for bridges, silos, and industrial buildings at [PreserviTec](https://preservitec.com).
+Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg University. Currently working on **AI-based defect detection** for bridges, silos, and industrial buildings at [PreserviTec](https://preservitec.ai/de).
 
 ## Tech Stack
 
