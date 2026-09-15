@@ -1,28 +1,19 @@
-# Hi, I'm Falk Pfisterer
+<div align="center">
 
-**Agent Orchestrator · Building software with AI coding agents**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Falk+Pfisterer;Agent+Orchestrator;Geoinformatics+%26+AI" alt="Hi, I'm Falk Pfisterer — Agent Orchestrator — Geoinformatics & AI" />
 
-I write code exclusively with AI. I turn ideas into working projects by orchestrating coding agents: defining the problem, shaping the architecture, directing implementation, and reviewing and testing the results. The agents write the code; I own the decisions and the outcome.
+</div>
 
-I choose the language and tools around the problem. My projects span web and desktop apps, cloud infrastructure, geospatial analysis, computer vision, and automation. Working with agents lets me move across stacks and learn what each project needs.
+I build projects with AI coding agents, using whatever language and tools fit the idea.
+Geoinformatics at Heidelberg University · AI defect detection at [PreserviTec](https://preservitec.ai/de).
 
-My background is in **Geography and Geoinformatics at Heidelberg University**. At [PreserviTec](https://preservitec.ai/de), I work on **AI-based defect detection** for bridges, silos, and industrial buildings.
+## Tech Stack
 
-## How I Work
+<div align="center">
 
-- **Define and design:** Turn an idea into clear requirements and a practical architecture.
-- **Orchestrate:** Break the work into focused tasks and guide coding agents through implementation.
-- **Verify and ship:** Review changes, test behavior, and take projects through deployment and iteration.
+![Tech Stack](https://skillicons.dev/icons?i=python,typescript,js,c,react,vite,nodejs,electron,qt,aws,firebase,powershell,git,linux&perline=7)
 
-## Technologies I've Worked With
-
-Hands-on project experience through AI-assisted development, with the stack chosen for the task:
-
-- **Languages:** Python, TypeScript, JavaScript, C, PowerShell
-- **Web & desktop:** React, Vite, Material UI, Node.js, Electron, PySide6/Qt
-- **Cloud & tooling:** AWS, Firebase, Git, Linux
-- **Geospatial & data:** Leaflet, Open3D, Matplotlib, Scikit-learn
-- **AI & automation:** Gemini VLM, Whisper via Groq, Cheerio
+</div>
 
 ## Featured Projects
 
