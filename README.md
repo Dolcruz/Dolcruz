@@ -1,20 +1,28 @@
-<div align="center">
+# Hi, I'm Falk Pfisterer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Falk+Pfisterer;Geoinformatics+%40+Uni+Heidelberg;AI+Defect+Detection+%40+PreserviTec" alt="Typing SVG" />
+**Agent Orchestrator · Building software with AI coding agents**
 
-</div>
+I write code exclusively with AI. I turn ideas into working projects by orchestrating coding agents: defining the problem, shaping the architecture, directing implementation, and reviewing and testing the results. The agents write the code; I own the decisions and the outcome.
 
-Geography B.Sc. student specializing in **Geoinformatics** at Heidelberg University. Currently working on **AI-based defect detection** for bridges, silos, and industrial buildings at [PreserviTec](https://preservitec.ai/de).
+I choose the language and tools around the problem. My projects span web and desktop apps, cloud infrastructure, geospatial analysis, computer vision, and automation. Working with agents lets me move across stacks and learn what each project needs.
 
-## Tech Stack
+My background is in **Geography and Geoinformatics at Heidelberg University**. At [PreserviTec](https://preservitec.ai/de), I work on **AI-based defect detection** for bridges, silos, and industrial buildings.
 
-<div align="center">
+## How I Work
 
-![Tech Stack](https://skillicons.dev/icons?i=python,typescript,js,react,vite,materialui,firebase,nodejs,electron,powershell,git,linux&perline=6)
+- **Define and design:** Turn an idea into clear requirements and a practical architecture.
+- **Orchestrate:** Break the work into focused tasks and guide coding agents through implementation.
+- **Verify and ship:** Review changes, test behavior, and take projects through deployment and iteration.
 
-</div>
+## Technologies I've Worked With
 
-**Also:** Leaflet, PySide6/Qt, Cheerio, Open3D, Matplotlib, Scikit-learn, Gemini VLM, Groq Whisper
+Hands-on project experience through AI-assisted development, with the stack chosen for the task:
+
+- **Languages:** Python, TypeScript, JavaScript, C, PowerShell
+- **Web & desktop:** React, Vite, Material UI, Node.js, Electron, PySide6/Qt
+- **Cloud & tooling:** AWS, Firebase, Git, Linux
+- **Geospatial & data:** Leaflet, Open3D, Matplotlib, Scikit-learn
+- **AI & automation:** Gemini VLM, Whisper via Groq, Cheerio
 
 ## Featured Projects
 
