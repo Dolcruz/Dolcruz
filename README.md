@@ -21,7 +21,7 @@ Geoinformatics at Heidelberg University · AI defect detection at [PreserviTec](
 |---------|-------------|
 | [tree-status-classification-vlm](https://github.com/Dolcruz/tree-status-classification-vlm) | Vision-language model pipeline for classifying tree health from UAV point clouds -- 97.86% accuracy |
 | [Bike_Route_Mapper](https://github.com/Dolcruz/Bike_Route_Mapper) | Community-driven bike route mapping for Heidelberg with Leaflet, Firebase & OSRM routing |
-| [Heidelberg-Events](https://github.com/Dolcruz/Heidelberg-Events) | Auto-aggregated event listings from 4 local sources -- daily scraping with Cloud Functions |
+| [gpt-chess](https://github.com/Dolcruz/gpt-chess) | Local chess training app with an AI coach, Stockfish analysis, puzzles & opening practice |
 | [Speech-to-text-desktop](https://github.com/Dolcruz/Speech-to-text-desktop) | Desktop speech-to-text app with 3D visualization, grammar correction & translation |
 
 ## GitHub Stats
