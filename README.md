@@ -19,10 +19,14 @@ Geoinformatics at Heidelberg University · AI defect detection at [PreserviTec](
 
 | Project | Description |
 |---------|-------------|
+| [FokusWache](https://github.com/Dolcruz/Fokuswache) | Windows focus app with website, game & app limits, schedules, rule locking and a local activity journal |
 | [tree-status-classification-vlm](https://github.com/Dolcruz/tree-status-classification-vlm) | Vision-language model pipeline for classifying tree health from UAV point clouds -- 97.86% accuracy |
+| [schneepegel-brotenau](https://github.com/Dolcruz/schneepegel-brotenau) | Computer-vision snow-depth measurement from a fixed camera, with a local Windows app |
 | [Bike_Route_Mapper](https://github.com/Dolcruz/Bike_Route_Mapper) | Community-driven bike route mapping for Heidelberg with Leaflet, Firebase & OSRM routing |
 | [gpt-chess](https://github.com/Dolcruz/gpt-chess) | Local chess training app with an AI coach, Stockfish analysis, puzzles & opening practice |
 | [Speech-to-text-desktop](https://github.com/Dolcruz/Speech-to-text-desktop) | Desktop speech-to-text app with 3D visualization, grammar correction & translation |
+| [ocr-hotkey](https://github.com/Dolcruz/ocr-hotkey) | Windows screen-region OCR with a global hotkey, multi-monitor capture & clipboard output |
+| [CampusConnect](https://github.com/Dolcruz/CampusConnect) | Windows university VPN helper for Cisco Secure Client with encrypted credentials & optional local TOTP |
 
 ## GitHub Stats
 
