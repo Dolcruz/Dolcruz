@@ -1,47 +1,59 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img alt="falk@pfisterer: builds desktop apps, games, robots and websites with Claude Code and Codex" src="header-dark.svg" width="100%">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hi%2C+I'm+Falk+Pfisterer;Agent+Orchestrator;Geoinformatics+%26+AI" alt="Hi, I'm Falk Pfisterer — Agent Orchestrator — Geoinformatics & AI" />
+<p align="center">
+  <a href="https://pfisterer-portfolio.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/falk-pfisterer-6a48a331b/">LinkedIn</a> ·
+  <a href="mailto:pfistererfalk@gmail.com">Email</a>
+</p>
 
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dolcruz/gpt-chess"><img src="assets/projects/gpt-chess.gif" alt="GPT Chess: playing against the coach, every move gets rated" width="100%"></a>
+      <br><b><a href="https://github.com/Dolcruz/gpt-chess">GPT Chess</a></b><br>
+      Chess coach that rates every move and explains it, powered by your own ChatGPT subscription.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dolcruz/satsuma"><img src="assets/projects/satsuma.gif" alt="Satsuma: the converter wheel switching between Convert, Tools and Actions" width="100%"></a>
+      <br><b><a href="https://github.com/Dolcruz/satsuma">Satsuma</a></b> · <a href="https://github.com/Dolcruz/satsuma/releases/latest">Download</a><br>
+      Drag a file, tap Shift, drop it on a format. Offline converter wheel for Windows.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dolcruz/esp32-roomba"><img src="assets/projects/esp32-roomba.jpg" alt="Self-built ESP32 robot with LiDAR next to its SLAM map" width="100%"></a>
+      <br><b><a href="https://github.com/Dolcruz/esp32-roomba">ESP32 Roomba</a></b><br>
+      Self-built robot: LiDAR mapping, live camera and Gemini Vision navigation from the browser.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dolcruz/Fokuswache"><img src="assets/projects/fokuswache.png" alt="FokusWache: rules with daily time budgets" width="100%"></a>
+      <br><b><a href="https://github.com/Dolcruz/Fokuswache">FokusWache</a></b> · <a href="https://github.com/Dolcruz/Fokuswache/releases/latest">Download</a><br>
+      Windows focus app: time budgets and schedules for sites, games and apps. Data stays local.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Dolcruz/Speech-to-text-desktop"><img src="assets/projects/speech-to-text.gif" alt="Speech-to-text: the 3D particle sphere reacting to my voice" width="100%"></a>
+      <br><b><a href="https://github.com/Dolcruz/Speech-to-text-desktop">Speech-to-text</a></b> · <a href="https://github.com/Dolcruz/Speech-to-text-desktop/releases/latest">Download</a><br>
+      Voice typing for Windows with a 3D particle sphere that reacts to your voice, plus grammar fixes and translation.
+    </td>
+    <td width="50%" valign="top">
+      <b>Also built</b>
+      <ul>
+        <li><a href="https://github.com/Dolcruz/ocr-hotkey">ocr-hotkey</a>: OCR any screen region on a hotkey</li>
+        <li><a href="https://github.com/Dolcruz/CampusConnect">CampusConnect</a>: one-click university VPN</li>
+        <li><a href="https://github.com/Dolcruz/schneepegel-brotenau">schneepegel-brotenau</a>: snow depth from a fixed camera</li>
+        <li><a href="https://github.com/Dolcruz/tree-status-classification-vlm">tree-status-classification-vlm</a>: tree health from drone point clouds, 97.86 % accuracy</li>
+        <li><a href="https://github.com/Dolcruz/Heidelberg-Events">Heidelberg-Events</a>: daily scraped event listing</li>
+        <li><a href="https://github.com/Dolcruz/Bike_Route_Mapper">Bike_Route_Mapper</a>: community bike routes for Heidelberg</li>
+        <li><a href="https://github.com/Dolcruz/desktop-widgets">desktop-widgets</a>: todo, notes and weather embedded in the wallpaper</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-I build projects with AI coding agents, using whatever language and tools fit the idea.
-Geoinformatics at Heidelberg University · AI defect detection at [PreserviTec](https://preservitec.ai/de).
-
-## Tech Stack
-
-<div align="center">
-
-![Tech Stack](https://skillicons.dev/icons?i=python,typescript,js,c,react,vite,nodejs,electron,qt,aws,firebase,powershell,git,linux&perline=7)
-
-</div>
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [FokusWache](https://github.com/Dolcruz/Fokuswache) | Windows focus app with website, game & app limits, schedules, rule locking and a local activity journal |
-| [tree-status-classification-vlm](https://github.com/Dolcruz/tree-status-classification-vlm) | Vision-language model pipeline for classifying tree health from UAV point clouds -- 97.86% accuracy |
-| [schneepegel-brotenau](https://github.com/Dolcruz/schneepegel-brotenau) | Computer-vision snow-depth measurement from a fixed camera, with a local Windows app |
-| [Bike_Route_Mapper](https://github.com/Dolcruz/Bike_Route_Mapper) | Community-driven bike route mapping for Heidelberg with Leaflet, Firebase & OSRM routing |
-| [gpt-chess](https://github.com/Dolcruz/gpt-chess) | Local chess training app with an AI coach, Stockfish analysis, puzzles & opening practice |
-| [Speech-to-text-desktop](https://github.com/Dolcruz/Speech-to-text-desktop) | Desktop speech-to-text app with 3D visualization, grammar correction & translation |
-| [ocr-hotkey](https://github.com/Dolcruz/ocr-hotkey) | Windows screen-region OCR with a global hotkey, multi-monitor capture & clipboard output |
-| [CampusConnect](https://github.com/Dolcruz/CampusConnect) | Windows university VPN helper for Cisco Secure Client with encrypted credentials & optional local TOTP |
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Dolcruz&theme=github-dark-blue&hide_border=true&background=00000000" />
-
-</div>
-
-## Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-pfisterer--portfolio.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfisterer-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Falk_Pfisterer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falk-pfisterer-6a48a331b/)
-[![Email](https://img.shields.io/badge/Email-pfistererfalk@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfistererfalk@gmail.com)
-
-</div>
+<sub>Header regenerated daily by <a href="scripts/build_header.py">a small script</a> and GitHub Actions.</sub>

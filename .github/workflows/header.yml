@@ -1,0 +1,32 @@
+name: Update profile header
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, 05:17 CET
+  workflow_dispatch:
+  push:
+    paths:
+      - "scripts/build_header.py"
+      - "assets/ascii.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render header
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/build_header.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add header-dark.svg header-light.svg assets/stats.json
+          git diff --cached --quiet || (git commit -m "Update profile header" && git push)
