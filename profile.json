@@ -1,0 +1,71 @@
+{
+  "name": "Falk Pfisterer",
+  "handle": "Dolcruz",
+  "tagline": "I build things with AI agents.",
+  "status": "BUILDING",
+  "now": "a cinematic voice orb for Speech-to-text",
+  "based": "Heidelberg, Germany",
+  "agents": "Claude Code + Codex",
+  "projects": [
+    {
+      "repo": "gpt-chess",
+      "title": "GPT Chess",
+      "kind": "web app",
+      "media": "assets/projects/gpt-chess.gif",
+      "text": "Chess coach that rates every move and explains it, powered by your own ChatGPT subscription."
+    },
+    {
+      "repo": "satsuma",
+      "title": "Satsuma",
+      "kind": "windows app",
+      "media": "assets/projects/satsuma.gif",
+      "text": "Drag a file, tap Shift, drop it on a format. Offline converter wheel for Windows."
+    },
+    {
+      "repo": "esp32-roomba",
+      "title": "ESP32 Roomba",
+      "kind": "robot",
+      "media": "assets/projects/esp32-roomba.jpg",
+      "text": "Self-built robot vacuum: LiDAR mapping, live camera and Gemini Vision navigation from the browser."
+    },
+    {
+      "repo": "Fokuswache",
+      "title": "FokusWache",
+      "kind": "windows app",
+      "media": "assets/projects/fokuswache.png",
+      "text": "Focus app with daily time budgets and schedules for sites, games and apps. Data stays local."
+    },
+    {
+      "repo": "Speech-to-text-desktop",
+      "title": "Speech-to-text",
+      "kind": "windows app",
+      "media": "assets/projects/speech-to-text.gif",
+      "text": "Voice typing on a hotkey with a visualizer that reacts to your voice, grammar fixes and translation."
+    },
+    {
+      "repo": "tree-status-classification-vlm",
+      "title": "Tree Status VLM",
+      "kind": "research",
+      "media": null,
+      "metric": {
+        "value": "97.86 %",
+        "label": "accuracy, alive vs. dead",
+        "rows": [["560", "trees from drone photogrammetry"], ["7", "views per tree"], ["3,920", "images sent to Gemini, o4-mini, Gemma"]]
+      },
+      "text": "Can general vision-language models spot dead trees? My own drone survey, compared across models."
+    }
+  ],
+  "also_built": [
+    {"repo": "ocr-hotkey", "text": "OCR any screen region on a hotkey"},
+    {"repo": "CampusConnect", "text": "one-click university VPN"},
+    {"repo": "schneepegel-brotenau", "text": "snow depth from a fixed camera"},
+    {"repo": "Heidelberg-Events", "text": "events scraped daily from 4 sources"},
+    {"repo": "Bike_Route_Mapper", "text": "community bike routes for Heidelberg"},
+    {"repo": "desktop-widgets", "text": "todo, notes and weather in the wallpaper"}
+  ],
+  "links": [
+    {"label": "pfisterer-portfolio.com", "href": "https://pfisterer-portfolio.com"},
+    {"label": "LinkedIn", "href": "https://www.linkedin.com/in/falk-pfisterer-6a48a331b/"},
+    {"label": "pfistererfalk@gmail.com", "href": "mailto:pfistererfalk@gmail.com"}
+  ]
+}
