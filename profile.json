@@ -3,7 +3,6 @@
   "handle": "Dolcruz",
   "tagline": "I build things with AI agents.",
   "status": "BUILDING",
-  "now": "a cinematic voice orb for Speech-to-text",
   "based": "Heidelberg, Germany",
   "agents": "Claude Code + Codex",
   "projects": [
@@ -50,22 +49,62 @@
       "metric": {
         "value": "97.86 %",
         "label": "accuracy, alive vs. dead",
-        "rows": [["560", "trees from drone photogrammetry"], ["7", "views per tree"], ["3,920", "images sent to Gemini, o4-mini, Gemma"]]
+        "rows": [
+          [
+            "560",
+            "trees from drone photogrammetry"
+          ],
+          [
+            "7",
+            "views per tree"
+          ],
+          [
+            "3,920",
+            "images sent to Gemini, o4-mini, Gemma"
+          ]
+        ]
       },
       "text": "Can general vision-language models spot dead trees? My own drone survey, compared across models."
     }
   ],
   "also_built": [
-    {"repo": "ocr-hotkey", "text": "OCR any screen region on a hotkey"},
-    {"repo": "CampusConnect", "text": "one-click university VPN"},
-    {"repo": "schneepegel-brotenau", "text": "snow depth from a fixed camera"},
-    {"repo": "Heidelberg-Events", "text": "events scraped daily from 4 sources"},
-    {"repo": "Bike_Route_Mapper", "text": "community bike routes for Heidelberg"},
-    {"repo": "desktop-widgets", "text": "todo, notes and weather in the wallpaper"}
+    {
+      "repo": "ocr-hotkey",
+      "text": "OCR any screen region on a hotkey"
+    },
+    {
+      "repo": "CampusConnect",
+      "text": "one-click university VPN"
+    },
+    {
+      "repo": "schneepegel-brotenau",
+      "text": "snow depth from a fixed camera"
+    },
+    {
+      "repo": "Heidelberg-Events",
+      "text": "events scraped daily from 4 sources"
+    },
+    {
+      "repo": "Bike_Route_Mapper",
+      "text": "community bike routes for Heidelberg"
+    },
+    {
+      "repo": "desktop-widgets",
+      "text": "todo, notes and weather in the wallpaper"
+    }
   ],
   "links": [
-    {"label": "pfisterer-portfolio.com", "href": "https://pfisterer-portfolio.com"},
-    {"label": "LinkedIn", "href": "https://www.linkedin.com/in/falk-pfisterer-6a48a331b/"},
-    {"label": "pfistererfalk@gmail.com", "href": "mailto:pfistererfalk@gmail.com"}
+    {
+      "label": "pfisterer-portfolio.com",
+      "href": "https://pfisterer-portfolio.com"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/falk-pfisterer-6a48a331b/"
+    },
+    {
+      "label": "pfistererfalk@gmail.com",
+      "href": "mailto:pfistererfalk@gmail.com"
+    }
   ]
 }

@@ -219,10 +219,12 @@ def hero(data: dict, c: dict) -> str:
     # identity
     b.append(text(26, 268, CFG["name"], c, 54, "text", cls="s", ls="-1"))
     b.append(text(28, 298, CFG["tagline"], c, 15, "muted"))
-    b.append(text(28, 344, "NOW", c, 11, "faint", ls="1.5"))
-    b.append(text(110, 344, CFG["now"], c, 13, "text"))
-    b.append(text(28, 372, "BASED", c, 11, "faint", ls="1.5"))
-    b.append(text(110, 372, CFG["based"], c, 13, "text"))
+    # optional rows (e.g. "now" only makes sense while someone keeps it current)
+    rows = [(k.upper(), CFG[k]) for k in ("now", "based") if CFG.get(k)]
+    for j, (k, v) in enumerate(rows):
+        y = 372 - (len(rows) - 1 - j) * 28
+        b.append(text(28, y, k, c, 11, "faint", ls="1.5"))
+        b.append(text(110, y, v, c, 13, "text"))
     # stat cells (2 x 2)
     gx, gw, gy, gh = 600, 400, 198, (H - 198) / 2
     b.append(vline(gx, gy, H, c) + vline(gx + gw / 2, gy, H, c) + hline(gx, W, gy + gh, c))
